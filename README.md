@@ -19,8 +19,8 @@ A simple web crawler built with Python and React.js. It allows users to crawl we
 ## Setup
 
 ### Prerequisites
-- Install [Node.js](https://nodejs.org/) (for the frontend).
-- Install [Python 3](https://www.python.org/) (for the backend).
+- Install [Node.js](https://nodejs.org/) (for the backend).
+- Install [Python 3](https://www.python.org/) (for the frontend).
 - Install [MongoDB](https://www.mongodb.com/) (or use MongoDB Atlas for a cloud-based database).
 
 ### Clone the Repository
